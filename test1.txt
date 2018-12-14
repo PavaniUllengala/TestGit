@@ -1,1 +1,41 @@
-ullu luvs praveen 
+public class DataTypes {
+
+	public static void main(String[] args) {
+// primitive data types
+		
+		int x = 4;
+				
+		System.out.print("the value of x is : ");
+		System.out.println(x);
+		
+		x = 5;
+		System.out.println("the value of x is : " +x);
+		
+		
+		
+		byte b = 1;
+		System.out.println("the value of b:" +b);
+		
+		short s = 256;
+		System.out.println("the value of s:" +s);
+		
+		long l= 1225526562;
+		System.out.println("the value of l:" +l);
+		
+		float f = 2.5656f;
+		System.out.println("the value of f:" +f);
+		
+		double d = 123.45568986d;
+		System.out.println("the double value is:" +d);
+		
+		boolean result = true;
+		System.out.println("the result is:" +result);
+		
+		char c = '5';
+		System.out.println("the char value is c:" +c);
+		
+		
+	} 
+}
+
+
